@@ -25,7 +25,7 @@ Replace audio:uri with the path to your audio file
   }
 }
 '
-5. `curl -s -X POST -H "Content-Type: application/json" --data-binary @request.json "https://speech.googleapis.com/v1beta1/speech:longrunningrecognize?key=${API_KEY}"`
+5. `transcribe.sh`
 
 It should spit a 'Name' back at you
 
