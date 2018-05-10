@@ -1,0 +1,10 @@
+{
+  "config": {
+      "encoding":"LINEAR16",
+      "enableAutomaticPunctuation": true,
+      "language_code": "en-US"
+  },
+  "audio": {
+      "uri":"/path/to/file"
+  }
+}
